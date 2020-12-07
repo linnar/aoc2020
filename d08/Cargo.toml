@@ -1,0 +1,5 @@
+[package]
+name = "d08"
+version = "0.1.0"
+authors = ["honza"]
+edition = "2018"
